@@ -1,6 +1,6 @@
 {
   "name": "arisejs",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "description": "JavaScript library for sending AriseCoin transactions from the client or server",
   "main": "index.js",
   "engines": {
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arisebank/arise-js.git"
+    "url": "git+https://github.com/arisebank/arisejs.git"
   },
-  "homepage": "https://github.com/arisebank/arise-js",
+  "homepage": "https://github.com/arisebank/arisejs",
   "keywords": [
     "api",
     "aco",
@@ -31,7 +31,7 @@
     "server",
     "transaction"
   ],
-  "bugs": "https://github.com/arisebank/arise-js/issues",
+  "bugs": "https://github.com/arisebank/arisejs/issues",
   "contributors": [
     "Jared Rice Sr. <jared@arisebank.com>",
     "Boris Povod <boris@crypti.me>",
